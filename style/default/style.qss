@@ -1,0 +1,28 @@
+MainGui > QLabel{color: white;}
+
+QPushButton#mainButton[text="V"]{
+             border-image: url(style/default/buttonGrey.png) 16;
+             border-width: 8px;
+             }
+
+QPushButton#mainButton[text="X"]{
+             border-image: url(style/default/buttonRed.png) 16;
+             border-width: 8px;
+}
+
+QPushButton#mainButton[text="+"]{
+             border-image: url(style/default/buttonGreen.png) 16;
+             border-width: 8px;
+}
+
+/* border-image: url(1.png) 16;
+             border-width: 8px;
+
+    mainButton->setMinimumSize(53, 101);
+    mainButton->setMaximumSize(53, 101);
+QRect(11,11 164x47) up lable
+QRect(11,64 164x47) down lable
+QRect(181,11 57x100)  mainButton
+             249x122 Application
+ 249 - 57
+*/

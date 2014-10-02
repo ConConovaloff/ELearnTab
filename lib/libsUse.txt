@@ -1,0 +1,4 @@
+We use the excellent library of "Qt" and "SQLite". We thank the community of developers for their work.
+Source code libraries you can download from the official site:
+Qt - http://qt-project.org/downloads or http://qt.digia.com/
+"SQLite" - http://www.sqlite.org/download.html
